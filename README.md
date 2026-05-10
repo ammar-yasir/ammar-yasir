@@ -53,6 +53,7 @@ quick to learn new technologies, thrives in both independent and collaborative s
 ### CI & CD
 
 ![Github Actions](https://img.shields.io/badge/github%20actions-%23323330.svg?style=for-the-badge&logo=github-actions&logoColor=%#2088FF)
+![Docker](https://img.shields.io/badge/docker-%23323330.svg?style=for-the-badge&logo=docker&logoColor=%#2088FF)
 
 ### Agile & Version Control
 
